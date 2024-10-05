@@ -2,6 +2,8 @@
 
 This project demonstrates the development of a robotic car that follows a line and avoids obstacles in its path. It uses an Arduino board, stepper motors, sensors, and various components to achieve the functionality of a smart autonomous robot capable of navigating predefined paths while avoiding collisions.
 
+**Robotic car**: 
+![Robot Car](https://github.com/Juwel2121/obstacle-avoidance-with-line-following-car/blob/main/obstacle%20avoid%2C%20line%20follow2.jpg)
 ## Features
 - **Line following**: The car uses IR sensors to detect and follow a predefined path (line).
 - **Obstacle avoidance**: The car is equipped with an ultrasonic sensor that detects obstacles and avoids collisions by taking necessary actions.
