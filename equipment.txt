@@ -1,0 +1,32 @@
+Stepper Motor:
+.............................
+-L298N Stepper Motor Driver Red(180): https://www.allmartbd.com/l298n-stepper-motor-driver-red.html
+
+motor driver:
+........................
+-L298 motor driver
+
+
+
+
+Arduino: UNO
+...............
+-Arduino nano Multifunction expansion board V3.0(399/=): https://www.allmartbd.com/electronics-170/arduino-nano-multifunction-expansion-board-v3-0.html
+-Arduino Pro Micro Orginal(530): https://www.allmartbd.com/electronics-170/arduino-pro-micro-5v-16mhz-r3.html
+-Arduino Mega R3 2560 Good Quality(1,640): https://www.allmartbd.com/electronics-170/arduino-mega-r3-2560.html
+
+
+Car:
+.........
+-2WD Smart Robot Car Kit(520)(3 wheel): https://www.allmartbd.com/2wd-smart-robots-car-chassis-kit.html
+
+-mini servo motor
+-tatal
+-hot air gun
+-tester, scree driver
+-18650 battery holder(2cell)
+-pilus
+-IR sensor x2(line follow)
+-ultrasonic sensor holder
+-ultrasonic sensor hc-sr04--99/=
+-18650 battery cell 3.7v x2
